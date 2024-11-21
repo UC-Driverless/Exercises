@@ -2,7 +2,7 @@
 
 Exercise 1:
 
-- Create a ros2 workspace and place the exercise files in it. (Hint: use 'git clone' command in the terminal).
+- Create a ros2 workspace and place the exercise files in it.
 - Determine how many topics are in the bag.
 - Determine the Hz of the topic image.
 - Determine the Hz of the topic system.
